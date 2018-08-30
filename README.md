@@ -1,2 +1,2 @@
 # docsense
-Get a true sense of your docs
+Get the true sense of your docs
